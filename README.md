@@ -2,7 +2,7 @@
 
 ## 1. Framework
 
-<img src="DSIMVC++.png"  width="897" height="317" />
+<img src="DSIMVC++.png"  width="800" height="230" />
 
 The caparison of DSIMVC and DSIMVC++ framework for incomplete multi-view clustering. In DSIMVC++, the proposed
 GCFAgg module is integrated to obtain the consensus representation and consensus clustering assignment, and the clustering loss is
